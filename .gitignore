@@ -1,0 +1,7 @@
+*~
+.python-version
+*.log
+tmp/
+.env*
+.DS_Store
+nohup.out*
